@@ -1,0 +1,2 @@
+// Obtain the FirebaseAnalytics instance.
+mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);MainActivity.java
